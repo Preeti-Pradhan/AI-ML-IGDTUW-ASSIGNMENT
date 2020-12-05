@@ -1,4 +1,4 @@
-# AI-ML-IGDTUW-ASSIGNMENT
+# AI ML
 Assignment-1 Week-1
 
 Level: Median
